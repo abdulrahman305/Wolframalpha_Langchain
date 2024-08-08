@@ -30,7 +30,7 @@ packaging==23.0
 pydantic==1.10.13
 pyspark==3.3.1
 PyYAML==6.0
-requests==2.31.0
+requests==2.32.0
 SQLAlchemy==1.4.46
 tenacity==8.2.0
 tqdm==4.64.1
