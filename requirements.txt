@@ -16,7 +16,7 @@ idna==3.7
 importlib-metadata==6.0.0
 itsdangerous==2.1.2
 jaraco.context==4.3.0
-Jinja2==3.1.2
+Jinja2==3.1.4
 langchain==0.0.80
 MarkupSafe==2.1.2
 marshmallow==3.19.0
